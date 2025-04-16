@@ -16,6 +16,10 @@ The primary objective of this analysis is to uncover patterns, trends, and corre
 - Step 6 : Create a packed bubble chart to display category-wise subscribers.
 - Step 7 :  Create a calculated column to find Views per Subscriber as ‘Viewed by Subscriber’.
 - Step 8 : Create a table visual to represent the channel type and views per subscriber.
+
+
+  ## Dataset Used
+  - <a href="https://github.com/KP1297/Power-Bi-Projects/blob/main/Global%20YouTube%20Statistics.csv">Youtube Analysis Data</a>
    
 
 
